@@ -1,4 +1,4 @@
 # run the dbt deps command to install the packages
-packages:
-  - package: fishtown-analytics/dbt_utils
-    version: 0.6.4
+#packages:
+#  - package: fishtown-analytics/dbt_utils
+#    version: 0.6.4
